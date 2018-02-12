@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esim2_desimaali", "Esim2\Es
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht2", "Teht2\Teht2.csproj", "{DB5FDF2C-7E16-4146-BBA9-7B8E25E5C841}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht4", "Teht4\Teht4.csproj", "{2A88CC1F-1080-4D43-A574-1659DEDED7D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DB5FDF2C-7E16-4146-BBA9-7B8E25E5C841}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB5FDF2C-7E16-4146-BBA9-7B8E25E5C841}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB5FDF2C-7E16-4146-BBA9-7B8E25E5C841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A88CC1F-1080-4D43-A574-1659DEDED7D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A88CC1F-1080-4D43-A574-1659DEDED7D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A88CC1F-1080-4D43-A574-1659DEDED7D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A88CC1F-1080-4D43-A574-1659DEDED7D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
