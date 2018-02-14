@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.16
+VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esim1_summa", "ConsoleApp1\Esim1_summa.csproj", "{6D868C18-D322-4C2F-AE46-3AE813D17BF8}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht2", "Teht2\Teht2.csproj", "{DB5FDF2C-7E16-4146-BBA9-7B8E25E5C841}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht4", "Teht4\Teht4.csproj", "{2A88CC1F-1080-4D43-A574-1659DEDED7D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht5", "Teht5\Teht5.csproj", "{B5774232-A3BB-4BB0-AA5F-AA1F63147D5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,8 +35,15 @@ Global
 		{2A88CC1F-1080-4D43-A574-1659DEDED7D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A88CC1F-1080-4D43-A574-1659DEDED7D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A88CC1F-1080-4D43-A574-1659DEDED7D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5774232-A3BB-4BB0-AA5F-AA1F63147D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5774232-A3BB-4BB0-AA5F-AA1F63147D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5774232-A3BB-4BB0-AA5F-AA1F63147D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5774232-A3BB-4BB0-AA5F-AA1F63147D5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF9D26EE-8BB1-48BA-B084-2C5DFE3E5447}
 	EndGlobalSection
 EndGlobal
